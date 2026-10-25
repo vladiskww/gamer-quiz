@@ -47,5 +47,23 @@ const QUESTIONS = [
     options: ['Deathmatch', 'Battle Royale', 'Capture the Flag', 'Co-op'],
     answer: 1,
     explanation: 'Battle Royale: 100 игроков, зона сужается, побеждает последний выживший.'
+  },
+  {
+    question: 'Как зовут маленького рыцаря-жука из Hollow Knight?',
+    options: ['Рыцарь', 'Хорнет', 'Зот', 'Квиррел'],
+    answer: 0,
+    explanation: 'Главного героя Hollow Knight так и зовут — Рыцарь. Хорнет — его сестра и соперница.'
+  },
+  {
+    question: 'В какой инди-игре нужно выращивать урожай на ферме деда?',
+    options: ['Terraria', 'Stardew Valley', 'Celeste', 'Hades'],
+    answer: 1,
+    explanation: 'Stardew Valley: герой уходит из офиса и восстанавливает старую ферму деда.'
+  },
+  {
+    question: 'Какая игра — про скалолазку Мадлен и гору?',
+    options: ['Undertale', 'Cuphead', 'Celeste', 'Limbo'],
+    answer: 2,
+    explanation: 'Celeste — платформер о том, как Мадлен поднимается на гору и справляется с тревогой.'
   }
 ];
